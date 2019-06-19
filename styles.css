@@ -1,0 +1,18 @@
+img {
+  height: 450px;
+  width: 600px;
+}
+
+div {
+  display: flex;
+  object-fit: cover;
+  flex-wrap: wrap;
+}
+
+h1 {
+  text-shadow: 5px 5px #bad0f4;
+}
+
+body {
+  font-family: bad script;
+}
